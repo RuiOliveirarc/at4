@@ -1,0 +1,25 @@
+body{
+	padding-top: 3.5rem;
+}
+body.criacao{
+	text-align: center;	
+}
+
+h1{
+	text-align: center;
+}
+img{
+	height: 400px;
+	width: 400px;
+}
+img.index{
+	height: 100px;
+	width: 100px;
+}
+img.pag{
+	height: 300px;
+	width: 300px;
+}
+footer{
+	text-align: left;
+}
